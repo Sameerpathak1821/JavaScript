@@ -20,3 +20,16 @@
 
 
  */
+
+  //**************************************************
+  // stack memory(used in all primitive datatypes)
+  let myName="Sameer pathak";
+  let anotherName = myName;
+  anotherName ="Rishu";
+  console.log(myName);
+  console.log(anotherName);
+
+  
+
+
+  //heap memory (used in all non-primitive datatypes)
