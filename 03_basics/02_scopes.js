@@ -1,4 +1,4 @@
-let a = 10; // global scope, the value ofa is 10 globally.
+let a = 10; // global scope, the value of a is 10 globally.
 const b =20;
 var c = 30;
 
